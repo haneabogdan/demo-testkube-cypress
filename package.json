@@ -1,0 +1,22 @@
+{
+  "name": "demo-testkube-cypress",
+  "version": "1.0.0",
+  "description": "testing demo.testkube.io using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haneabogdan/demo-testkube-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haneabogdan/demo-testkube-cypress/issues"
+  },
+  "homepage": "https://github.com/haneabogdan/demo-testkube-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
